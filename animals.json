@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the largest mammal on Earth?",
+        "answers": ["Elephant", "Blue Whale", "Giraffe", "Lion"],
+        "correct_answer": "Blue Whale"
+    },
+    {
+        "question": "Which bird is known for its colorful plumage and can imitate human speech?",
+        "answers": ["Penguin", "Parrot", "Ostrich", "Hummingbird"],
+        "correct_answer": "Parrot"
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "answers": ["Cheetah", "Horse", "Gazelle", "Lion"],
+        "correct_answer": "Cheetah"
+    },
+    {
+        "question": "Which animal can sleep while standing on one leg?",
+        "answers": ["Giraffe", "Kangaroo", "Flamingo", "Penguin"],
+        "correct_answer": "Flamingo"
+    },
+    {
+        "question": "What is the only mammal capable of sustained flight?",
+        "answers": ["Bat", "Squirrel", "Flying Fox", "Hummingbird"],
+        "correct_answer": "Bat"
+    },
+    {
+        "question": "Which animal is known for its humps and can survive in deserts?",
+        "answers": ["Camel", "Horse", "Llama", "Zebra"],
+        "correct_answer": "Camel"
+    },
+    {
+        "question": "What is the world's largest reptile?",
+        "answers": ["Turtle", "Crocodile", "Iguana", "Komodo Dragon"],
+        "correct_answer": "Crocodile"
+    },
+    {
+        "question": "Which sea creature has eight arms and can change color to camouflage itself?",
+        "answers": ["Octopus", "Squid", "Jellyfish", "Starfish"],
+        "correct_answer": "Octopus"
+    },
+    {
+        "question": "What is the only big cat that cannot roar?",
+        "answers": ["Tiger", "Leopard", "Cheetah", "Lion"],
+        "correct_answer": "Cheetah"
+    },
+    {
+        "question": "Which animal is known for its black and white stripes?",
+        "answers": ["Zebra", "Tiger", "Giraffe", "Leopard"],
+        "correct_answer": "Zebra"
+    }
+]
